@@ -1,0 +1,159 @@
+
+Time:0
+Queues:(id:3,a:4,s:2)(id:2,a:5,s:3)(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id1: []
+Server_Id2: []
+
+Time:1
+Queues:(id:3,a:4,s:2)(id:2,a:5,s:3)(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id1: []
+Server_Id2: []
+
+Time:2
+Queues:(id:3,a:4,s:2)(id:2,a:5,s:3)(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id1: []
+Server_Id2: []
+
+Time:3
+Queues:(id:3,a:4,s:2)(id:2,a:5,s:3)(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id1: []
+Server_Id2: []
+
+Time:4
+Queues:(id:2,a:5,s:3)(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id1: [(id:3,a:4,s:2)]
+Server_Id2: []
+
+Time:5
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: [(id:2,a:5,s:3)]
+Server_Id1: [(id:3,a:4,s:1)]
+
+Time:6
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: [(id:2,a:5,s:2)]
+Server_Id1: []
+
+Time:7
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: [(id:2,a:5,s:1)]
+Server_Id1: []
+
+Time:8
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:9
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:10
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:11
+Queues:(id:4,a:12,s:3)(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:12
+Queues:(id:1,a:29,s:2)
+Server_Id2: [(id:4,a:12,s:3)]
+Server_Id1: []
+
+Time:13
+Queues:(id:1,a:29,s:2)
+Server_Id2: [(id:4,a:12,s:2)]
+Server_Id1: []
+
+Time:14
+Queues:(id:1,a:29,s:2)
+Server_Id2: [(id:4,a:12,s:1)]
+Server_Id1: []
+
+Time:15
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:16
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:17
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:18
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:19
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:20
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:21
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:22
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:23
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:24
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:25
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:26
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:27
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:28
+Queues:(id:1,a:29,s:2)
+Server_Id2: []
+Server_Id1: []
+
+Time:29
+Queues:
+Server_Id2: [(id:1,a:29,s:2)]
+Server_Id1: []
+
+Time:30
+Queues:
+Server_Id2: [(id:1,a:29,s:1)]
+Server_Id1: []
+
+avgWaitingTime=0
+avgServiceTime=4.75
+peakHour=5
